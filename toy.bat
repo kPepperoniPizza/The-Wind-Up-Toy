@@ -1,0 +1,1 @@
+"d:/Python39/python.exe" "d:/toy/main.py"
